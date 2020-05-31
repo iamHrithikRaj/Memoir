@@ -1,6 +1,6 @@
 {
   "project_info": {
-    "project_number": "618048553125",
+    "project_number": "618048125",
     "firebase_url": "https://memoir-adcb3.firebaseio.com",
     "project_id": "memoir-adcb3",
     "storage_bucket": "memoir-adcb3.appspot.com"
@@ -8,36 +8,36 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:618048553125:android:d9a1768361bcb8ec988d4c",
+        "mobilesdk_app_id": "1:618048553178ec988d4c",
         "android_client_info": {
           "package_name": "com.project.memoir"
         }
       },
       "oauth_client": [
         {
-          "client_id": "618048553125-fman74g7qaqnk9lbt7usrb7i5ioqrefu.apps.googleusercontent.com",
+          "client_id": "618048553125-fman7u.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.project.memoir",
-            "certificate_hash": "b13810179cd73798aa0d2a69f723b0d9c9dc811d"
+            "certificate_hash": "b138c9dc811d"
           }
         },
         {
-          "client_id": "618048553125-hkp2hgilolideqmppfb5vd3302nra671.apps.googleusercontent.com",
-          "client_type": 3
+          "client_id": "618048553125-hkp2hgilolideqra671.apps.googleusercontent.com",
+          "client_type": 665
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDQ4Sc1Ak5grxsK_A2AoYXA3uKh-ajW30Y"
+          "current_key": "AsK_uKh-aj0Y"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "618048553125-hkp2hgilolideqmppfb5vd3302nra671.apps.googleusercontent.com",
-              "client_type": 3
+              "client_id": "618048-hkp2hgilolideq2nra671.apps.googleusercontent.com",
+              "client_type": 67
             }
           ]
         }
